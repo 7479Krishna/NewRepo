@@ -28,3 +28,18 @@
 2023-08-10 02:10:16,203 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\krish\FOR GIT Prac\GIT_PRACS\src\main\resources
 2023-08-10 02:10:16,205 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2023-08-10 02:10:16,209 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\krish\FOR GIT Prac\GIT_PRACS\src\test\resources
+2023-08-10 02:25:25,083 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-10 02:25:27,513 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-10 02:25:27,899 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\krish\FOR Git Clone\GIT_PRACS\src\main\resources
+2023-08-10 02:25:27,905 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-10 02:25:28,026 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\krish\FOR Git Clone\GIT_PRACS\src\test\resources
+2023-08-10 02:25:29,775 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GIT_PRACS:GIT_PRACS:0.0.1-SNAPSHOT @ C:\Users\krish\FOR Git Clone\GIT_PRACS\pom.xml.
+2023-08-10 02:25:31,181 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-10 02:25:31,189 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\krish\FOR Git Clone\GIT_PRACS\src\main\resources
+2023-08-10 02:25:31,191 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-10 02:25:31,266 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\krish\FOR Git Clone\GIT_PRACS\src\test\resources
+2023-08-10 02:25:32,981 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: GIT_PRACS:GIT_PRACS:0.0.1-SNAPSHOT @ C:\Users\krish\FOR Git Clone\GIT_PRACS\pom.xml.
+2023-08-10 02:25:35,042 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-10 02:25:35,048 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\krish\FOR Git Clone\GIT_PRACS\src\main\resources
+2023-08-10 02:25:35,051 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-08-10 02:25:35,056 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\krish\FOR Git Clone\GIT_PRACS\src\test\resources
